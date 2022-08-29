@@ -1,2 +1,2 @@
 # Tesla
-[Tesla](jegedenifemi/Tesla)
+[Tesla](https://jegedenifemi.github.io/Tesla/)
